@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Haluin Creative is a forward-thinking company dedicated to innovation in the creative industry. Our mission is to empower brands through captivating storytelling, impactful designs, and cutting-edge technology. We believe in collaboration and strive to build lasting relationships with our clients. Our diverse team of experts brings a wealth of experience, ensuring that every project is executed with excellence and creativity.  Join us as we redefine the boundaries of creativity and help your brand stand out in the digital landscape.
