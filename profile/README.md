@@ -1,6 +1,6 @@
 <!-- SVG Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Haluin%20Creative&width=800&height=200" alt="Haluin Creative Banner"/>
+  <img src="https://raw.githubusercontent.com/Haluin-Creative/.github/main/caplogo.png" alt="Haluin Creative Banner" width="800"/>
 </p>
 
 <h1 align="center">✨ Haluin Creative</h1>
