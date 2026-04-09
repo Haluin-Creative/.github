@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Haluin-Creative/.github/main/caplogo.png" alt="Haluin Creative Banner" width="800"/>
 </p>
 
-<h1 align="center">✨ Haluin Creative</h1>
+<h1 align="center">Haluin Creative</h1>
 <p align="center">
   Creative Agency | Design • Technology • Installation
 </p>
